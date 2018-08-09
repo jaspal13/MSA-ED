@@ -1,5 +1,5 @@
 # MSA-ED
-Multiple Sequence Alignment- Error Detection
+Multiple Sequence Alignment- Error Detector
 
 **Objective**: To build a ML model that can detect errors in whole-genome alignments.
 
