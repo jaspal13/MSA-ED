@@ -1,1 +1,1 @@
-We're writing a paper, the code will be added soon.
+The input to the code is two MAF files: true alignment file and predicted alignment file. The assumption is that the MAF files contains only the rows for the chosen ten species. The jupyter file processes these two files and each step is appropriately commented for better readability.
