@@ -1,0 +1,1 @@
+This folder contains the predictions made on real alignment data specifically human chr22:29,215,238-29,215,707 on the UCSC genome browser. The bed graph files for all the ten species are present, which can be uploaded as custom tracks and viewed on the browser.
