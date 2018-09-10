@@ -19,3 +19,8 @@ Due to the class imbalance problem, we only build a method to detect errors for 
 The code is divided into two folders. 
 1. **Training**: The code here takes as input the *true* and *predicted* alignment file and after passing through many steps in the pipeline, saves the machine learning model. Pictorially the pipeline could be represented as (to be added).
 2. **Prediction**: The code here takes a real alignment file, processes it and predicts the labels of alignment column using the saved ML model from the training phase. Pictorially the pipeline could be represented as (to be added).
+
+
+### Authors
+Jaspal Singh, McGill University, jaspal.singh2@mail.mcgill.ca
+Ramchalam K R, McGill University, ramchalam.kinattinkararamakrishn@mail.mcgill.ca
